@@ -1,0 +1,9 @@
+F:\Facultate\C#\laborator2\obj\Debug\laborator2.csprojAssemblyReference.cache
+F:\Facultate\C#\laborator2\obj\Debug\laborator2.Form1.resources
+F:\Facultate\C#\laborator2\obj\Debug\laborator2.Properties.Resources.resources
+F:\Facultate\C#\laborator2\obj\Debug\laborator2.csproj.GenerateResource.cache
+F:\Facultate\C#\laborator2\bin\Debug\laborator2.exe.config
+F:\Facultate\C#\laborator2\bin\Debug\laborator2.exe
+F:\Facultate\C#\laborator2\bin\Debug\laborator2.pdb
+F:\Facultate\C#\laborator2\obj\Debug\laborator2.exe
+F:\Facultate\C#\laborator2\obj\Debug\laborator2.pdb
